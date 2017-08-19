@@ -1,2 +1,2 @@
 # FTPRemote
-Open and ReadFile From FTPServer C# sample Program 
+Open and Read From FTPServer C# sample Program 
